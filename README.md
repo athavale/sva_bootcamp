@@ -1,2 +1,3 @@
-# sva_bootcamp
-Repo for use in programming bootcamp
+# jb_bootcamp
+
+Utilities for use in the Introduction to Programming in the Biological Sciences Bootcamp.
